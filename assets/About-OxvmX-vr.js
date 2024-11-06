@@ -1,1 +1,0 @@
-import{_ as o,c as t,a as s,o as n}from"./index-C-WgNStH.js";const a={},c={class:"about"};function r(l,e){return n(),t("div",c,e[0]||(e[0]=[s("h1",null,null,-1)]))}const u=o(a,[["render",r]]);export{u as default};
